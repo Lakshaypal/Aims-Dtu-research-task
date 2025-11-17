@@ -1,4 +1,4 @@
-# 🚀 AIMS-DTU Research Intern Round 2: Self-Supervised Learning Project
+# 🚀 Self-Supervised Learning Project
 
 **Author:** Lakshay Pal  
 **Date:** May 29, 2025  
